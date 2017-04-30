@@ -1,6 +1,8 @@
 body { 
-    background-color: rgb(1,2,7);
+    background-color: #EEEEEE;
         display: center;
         font-family: 'Eagle Lake', cursive;
+        color: rgba(5, 45,100, 0.5);
+        font-size: larger
 }
 
