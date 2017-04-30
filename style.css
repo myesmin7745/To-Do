@@ -1,7 +1,7 @@
 body { 
     background-image:url("http://www.brettjfox.com/wp-content/uploads/2015/07/Depositphotos_23122598_m-2015.jpg");
     background-color: #cccccc;
-    background-size: 1450px 900px;
+    background-size: 2000px 1000px;
     background-repeat: no-repeat;
     padding-top: 40px;
         display: center;
@@ -14,4 +14,6 @@ title {
 }
 #title {
     color: rgb(30, 144, 255);
+    background-color: rgb(25, 25, 112);
+    background-size:2000px 200px;
 }
