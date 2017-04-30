@@ -1,7 +1,7 @@
 body { 
     background-image:url("http://conejovalleytutor.com/wp-content/uploads/2015/06/study-material-1.jpg");
     background-color: #cccccc;
-    background-size: 300px 200px;
+    background-size: 600px 500px;
     background-repeat: no-repeat;
     padding-top: 40px;
         display: center;
@@ -9,6 +9,6 @@ body {
         color: rgb(199, 21, 133);
         font-size: 30px
 }
-head { 
+h2 { 
     background-color: rgb(30, 144, 255);
 }
