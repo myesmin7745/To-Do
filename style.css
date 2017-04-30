@@ -1,7 +1,7 @@
 body { 
-    background-image:url("http://conejovalleytutor.com/wp-content/uploads/2015/06/study-material-1.jpg");
+    background-image:url("http://www.brettjfox.com/wp-content/uploads/2015/07/Depositphotos_23122598_m-2015.jpg");
     background-color: #cccccc;
-    background-size: 600px 500px;
+    background-size: 1200px 600px;
     background-repeat: no-repeat;
     padding-top: 40px;
         display: center;
@@ -11,4 +11,6 @@ body {
 }
 title { 
     background-color: rgb(30, 144, 255);
+}
+#title: {color: rgb(30, 144, 255);
 }
