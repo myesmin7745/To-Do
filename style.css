@@ -9,11 +9,14 @@ body {
         color: rgb(199, 21, 133);
         font-size: 30px
 }
-title { 
-    background-color: rgb(30, 144, 255);
-}
+
 #title {
-    color: rgb(30, 144, 255);
-    background-color: rgb(25, 25, 112);
-    background-size:2000px 200px;
+    color: rgb(135, 206, 235);
+    background-color: rgb(0, 35, 102);
+    background-size: 2000px 200px;
+}
+.fa-laptop {
+    color: 	#00FF7F;
+    
+    
 }
